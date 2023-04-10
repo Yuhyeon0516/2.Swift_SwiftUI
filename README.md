@@ -54,6 +54,13 @@ https://user-images.githubusercontent.com/120432007/230884705-2dd15ad3-c9cc-41a2
 ### EmotionDiary
 - 감정을 날씨로 표현하여 작성하는 일기 App 입니다.
 
+https://user-images.githubusercontent.com/120432007/230886450-039a411b-7519-42b8-b783-0f48e14ab5c6.mov
+
+------------------------------------------------------------------------------------------
+### EmotionDiary_TDD
+- "EmotionDiary" App에 Fastlane과 TDD를 구현하였습니다.
+- App Icon을 추가하였습니다.
+
 ------------------------------------------------------------------------------------------
 # Upper Intermediate
 
