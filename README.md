@@ -22,9 +22,32 @@
 ------------------------------------------------------------------------------------------
 # Basic
 ### SymbollRoller-SwiftUI
+- Storyboard와 UIKit을 이용하여 만들었던 "SymbollRoller" App을 SwiftUI로 다시 구현하였습니다.
 
 ------------------------------------------------------------------------------------------
-### StockRank_
+### StockRank-SwiftUI
+- Storyboard와 UIKit을 이용하여 만들었던 "StockRank" App을 SwiftUI로 다시 구현하였습니다.
+
+------------------------------------------------------------------------------------------
+### StockRank-SwiftUI-Navigation
+- "StockRank" App에 Navigation을 연동하여 추가 상세 View를 표시하는 기능을 추가하였습니다. 
+
+https://user-images.githubusercontent.com/120432007/230883718-ef4cae29-7136-42fc-92a0-f12b739a6311.mov
+
+------------------------------------------------------------------------------------------
+### StockRank-SwiftUI-Navigation-ViewModel
+- Navigation이 추가 된 "StockRank" App에 Single source of truth 적용을 위해 StateObjec, ObservedObject로 리펙토링하였습니다.
+- Navigation에 내가 하트를 눌렀을때 좋아요 표시를 구현하면서 내가 좋아요를 누른 총 개수도 "of My Favorites"에 표시되게 구현하였습니다.
+
+https://user-images.githubusercontent.com/120432007/230884705-2dd15ad3-c9cc-41a2-ba1b-bfde8030bc83.mov
+
+------------------------------------------------------------------------------------------
+### AppleFramework-SwiftUI
+- Storyboard와 UIKit을 이용하여 만들었던 Grid로 이루어진 AppleFramework의 모음집을 SwiftUI로 다시 구현하였습니다. 
+
+------------------------------------------------------------------------------------------
+### AppleFramework-SwiftUI-Modality
+- SwiftUI로 구현하면서 구현하지 못하였던 Modality로 상세 View 보여주느 기능을 추가로 구현하였습니다.
 
 ------------------------------------------------------------------------------------------
 # Intermediate
